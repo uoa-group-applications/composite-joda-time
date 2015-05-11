@@ -10,7 +10,7 @@
 
     <groupId>nz.ac.auckland.composite</groupId>
     <artifactId>composite-joda-time</artifactId>
-    <version>1.3-SNAPSHOT</version>
+    <version>1.3</version>
     <packaging>jar</packaging>
     <name>composite-joda-time</name>
 
@@ -36,7 +36,7 @@
         <url>https://github.com/uoa-group-applications/composite-joda-time</url>
         <connection>scm:git:git@github.com:uoa-group-applications/composite-joda-time.git</connection>
         <developerConnection>scm:git:git@github.com:uoa-group-applications/composite-joda-time.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>composite-joda-time-1.3</tag>
     </scm>
 
 </project>
